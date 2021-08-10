@@ -19,5 +19,10 @@ fascinada por soluções 🤩
   <img align="center" alt="Ingrid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   <br>
+
   <a href="https://www.linkedin.com/in/ingrid-queiroz-caetano-3b5b25177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <br>
+ <div style="display: inline_block">
+     <img align="center" alt="Ingrid-gif" height="300" width="600" src="https://capricho.abril.com.br/wp-content/uploads/2019/03/drake-e-josh.gif">
+ </div>
   
