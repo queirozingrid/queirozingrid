@@ -1,4 +1,4 @@
-indigrinada com os bugs 👊💥
+## indigrinada com os bugs 👊💥
 fascinada por soluções 🤩
 
 - 👩‍💻 Trabalhando com Java
