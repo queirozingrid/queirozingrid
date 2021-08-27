@@ -1,5 +1,4 @@
-## indigrinada com os bugs 👊💥
-fascinada por soluções 🤩
+## indigrinada com os bugs 👊💥 fascinada por soluções 🤩
 
 - 👩‍💻 Trabalhando com Java
 - 💻 Estudando Orientação a Objetos
