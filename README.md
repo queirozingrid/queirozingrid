@@ -1,7 +1,7 @@
 ## indigrinada com os bugs 👊💥 fascinada por soluções 🤩
 
 - 👩‍💻 Trabalhando com Java
-- 💻 Estudando Orientação a Objetos
+- 💻 Estudando Java Web
 - 🙀 Surpreendendo os incrédulos
 
  <div>
