@@ -1,8 +1,8 @@
 ## indigrinada com os bugs 👊💥 fascinada por soluções 🤩
 
-- 👩‍💻 Trabalhando com Java
-- 💻 Estudando Java Web
-- 🙀 Surpreendendo os incrédulos
+- 👩‍💻 Desenvolvedora
+- 💻 Empreendedora
+- 📘 Eterna aprendiz
 
  <div>
   <a href="https://github.com/queirozingrid">
