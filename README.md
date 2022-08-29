@@ -3,6 +3,7 @@
 - 👩‍💻 Desenvolvedora
 - 💻 Empreendedora
 - 📘 Eterna aprendiz
+- 😎 Java, Python, Go, Javascript e o que me botar pra aprender. Tem bicho não, irmão, vai em frente!
 
  <div>
   <a href="https://github.com/queirozingrid">
