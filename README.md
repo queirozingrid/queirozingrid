@@ -1,10 +1,19 @@
-## indigrinada com os bugs 👊💥 fascinada por soluções 🤩
+## Nice to meet you!
+Hello, everyone! My name is Ingrid, I am from Fortaleza-CE, Brazil. I like to say that I am not a Software Developer, but I am a dreamer who uses the Software Development to make my dreams come true.
 
-- 👩‍💻 Desenvolvedora
-- 💻 Empreendedora
-- 📘 Eterna aprendiz
-- 😎 Java, Python, Go, Javascript e o que me botar pra aprender. Tem bicho não, irmão, vai em frente!
+## My experiences
+I think all experiences are valid, not only professional experiences. So, here, a list of all stacks that I had the opportunity to work in.
 
+> **Note:** All my code experiences are using the Scrum Agile Mindset
+
+| Experience Type | Languages | Databases | Frameworks
+| --------------- | --------- | --------- | --------- |
+| Academic        |	Java, Python, C, SQL  |	MySQL, Postgres |	Springboot, Primefaces
+| Professional	   | Java, Python, C++, SQL, GO	| DB Browser | SQLite	Handlebars, Django
+
+## Contact
+- Mail to: ingridqueirozcaetano@gmail.com
+- LinkedIn: [/in/ingrid-queiroz-caetano](https://www.linkedin.com/in/ingrid-queiroz-caetano-3b5b25177/)
  <div>
   <a href="https://github.com/queirozingrid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queirozingrid&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
