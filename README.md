@@ -9,7 +9,7 @@ I think all experiences are valid, not only professional experiences. So, here, 
 | Experience Type | Languages | Databases | Frameworks
 | --------------- | --------- | --------- | --------- |
 | Academic        |	Java, Python, C, SQL  |	MySQL, Postgres |	Springboot, Primefaces
-| Professional	   | Java, Python, C++, SQL, GO	| DB Browser | SQLite	Handlebars, Django
+| Professional	   | Java, Python, C++, SQL, GO	| DB Browser SQLite	| Handlebars, Django
 
 ## Contact
 - Mail to: ingridqueirozcaetano@gmail.com
